@@ -1,6 +1,6 @@
  <p align="center"> 
 
-![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobmoellerdev&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
+![Jakob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakobmoellerdev&count_private=true&show_icons=true)
 
  </p>
 
