@@ -25,8 +25,8 @@ I'm a passionate developer with a love for creating innovative solutions and con
 
 ## 🚀 Featured Projects
 
-[![lvm2go](https://github-readme-stats.vercel.app/api/pin/?username=jakobmoellerdev&repo=lvm2go)](https://github.com/jakobmoellerdev/lvm2go&theme=radical)
+[![lvm2go](https://github-readme-stats.vercel.app/api/pin/?username=jakobmoellerdev&repo=lvm2go&theme=radical)](https://github.com/jakobmoellerdev/lvm2go)
 
-[![topovgm](https://github-readme-stats.vercel.app/api/pin/?username=jakobmoellerdev&repo=topovgm)](https://github.com/jakobmoellerdev/topovgm&theme=radical)
+[![topovgm](https://github-readme-stats.vercel.app/api/pin/?username=jakobmoellerdev&repo=topovgm&theme=radical)](https://github.com/jakobmoellerdev/topovgm)
 
 
