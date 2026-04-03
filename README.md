@@ -1,11 +1,6 @@
 
 # Hi there, I'm Jakob 👋
 
-
-## About Me
-
-I'm a passionate developer with a love for creating innovative solutions and contributing to open source projects. Here's a bit more about me:
-
 - 🔭 I’m currently working on [OCM](https://ocm.software/) at [SAP](https://github.com/SAP).
 - I'm Maintainer at [TopoLVM](https://github.com/topolvm/topolvm/) in my free time, and I used to work in OpenShift at [LVMS](https://github.com/openshift/lvm-operator), a Local Sorage Meta Operator powered by lvm2.
 - I am interim Maintainer at [External Secrets Operator / ESO](https://github.com/external-secrets/external-secrets) - Help us maintain ESO, the project is a critical piece of many peoples security infrastructure!
