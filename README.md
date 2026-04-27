@@ -6,6 +6,5 @@
 - I am interim Maintainer at [External Secrets Operator / ESO](https://github.com/external-secrets/external-secrets) - Help us maintain ESO, the project is a critical piece of many peoples security infrastructure!
 - [Kubernetes Member](https://github.com/kubernetes/community/blob/master/community-membership.md#community-membership) and [Approver](https://github.com/kubernetes/community/blob/master/community-membership.md#approver) for [Kubernetes Resource Orchestrator / KRO](https://github.com/kro-run/kro) - It's an awesome project, check it out!
 
-<p><img img align="center"src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jakobmoellerdev&show-avatar=false&badges=2"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakobmoellerdev&" alt="jakobmoellerdev" /></p>
